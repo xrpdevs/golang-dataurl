@@ -1,4 +1,4 @@
-package dataurl
+package dataurlgo
 
 import (
 	"bytes"

@@ -25,4 +25,4 @@ Common functions are Decode and DecodeString to obtain a DataURL,
 and DataURL.String() and DataURL.WriteTo to generate a Data URL string.
 
 */
-package dataurl
+package dataurlgo
